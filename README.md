@@ -1,4 +1,4 @@
-## OSLAB EXPERIMENTS
+## OS LAB EXPERIMENTS
 
 #### Best fit implementation
 
